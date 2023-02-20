@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samantha!
 - 👀 I’m interested in writing music for video games and implementing the audio through middleware.
-- 🌱 I’m currently learning C# and implementing audio using FMOD to a game engine.
+- 🌱 I’m always growing and happy to learn new things.
 - 💞️ I’m looking to collaborate on video games! 
 - 📫 You can reach me on Twitter @sam_vandersluis
